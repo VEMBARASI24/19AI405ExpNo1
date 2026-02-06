@@ -41,7 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 <h3>PROGRAM :</h3>
-```
+
 import random
 import time
 
@@ -235,7 +235,7 @@ if   __name__ == "__main__":
         print("AgentLocation : {0}".format(agent.location)) 
         print("Performance : {0}".format(agent.performance)) 
         time.sleep(3)
-        ```
+      
 <h3>OUTPUT : </h3>
 <img width="955" height="452" alt="image" src="https://github.com/user-attachments/assets/82046fb0-8d7a-4b22-96f9-60a0ab54c85f" />
 <h3>RESULT :</h3>

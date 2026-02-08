@@ -41,6 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 <h3>PROGRAM :</h3>
+```
 import random
 rooms = ["Room 1", "Room 2"]
 patients = {
@@ -86,7 +87,7 @@ for _ in range(2):
     agent_location = move_agent(agent_location)
 print("\nFinal Performance Score:", performance)
 
-   
+ ```  
 <h3>OUTPUT : </h3>
 <img width="544" height="391" alt="image" src="https://github.com/user-attachments/assets/df838ccb-6bdd-4fdb-998e-6c2152c9c23c" />
 
